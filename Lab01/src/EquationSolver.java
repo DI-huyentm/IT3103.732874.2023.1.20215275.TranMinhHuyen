@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 public class EquationSolver {
     public static void main(String[] args) {
         String[] options = {"First-degree equation with one variable",
-                "System of first-degree equations with two variables",
+                "First-degree equations with two variables",
                 "Second-degree equation with one variable"};
         int choice = JOptionPane.showOptionDialog(
                 null, "Choose an equation type to solve:",
@@ -28,13 +28,20 @@ public class EquationSolver {
     private static void solveFirstDegreeEquation() {
         String strA = JOptionPane.showInputDialog("Enter coefficient 'a':");
         double a = Double.parseDouble(strA);
+        String strB = JOptionPane.showInputDialog("Enter coefficient 'b':");
+        double b = Double.parseDouble(strB);
 
         if (a == 0) {
-            JOptionPane.showMessageDialog(null,
-                    "Invalid input: 'a' cannot be 0 in a first-degree equation.");
+
+            if (b == 0 ) {
+                JOptionPane.showMessageDialog(null,
+                        "Infinite solutions: The system has infinitely many solutions.");
+            } else {
+                JOptionPane.showMessageDialog(null,
+                        "No solution: The system has no solution.");
+            }
+
         } else {
-            String strB = JOptionPane.showInputDialog("Enter coefficient 'b':");
-            double b = Double.parseDouble(strB);
             double x = -b / a;
             JOptionPane.showMessageDialog(null, "Root (x): " + x);
         }
@@ -84,8 +91,20 @@ public class EquationSolver {
         double discriminant = b * b - 4 * a * c;
 
         if (a == 0) {
-            JOptionPane.showMessageDialog(null,
-                    "Invalid input: 'a' cannot be 0 in a quadratic equation.");
+            if (b == 0) {
+
+                if (c == 0 ) {
+                    JOptionPane.showMessageDialog(null,
+                            "Infinite solutions: The system has infinitely many solutions.");
+                } else {
+                    JOptionPane.showMessageDialog(null,
+                            "No solution: The system has no solution.");
+                }
+
+            } else {
+                double x = -c / b;
+                JOptionPane.showMessageDialog(null, "Root (x): " + x);
+            }
         } else if (discriminant > 0) {
             double root1 = (-b + Math.sqrt(discriminant)) / (2 * a);
             double root2 = (-b - Math.sqrt(discriminant)) / (2 * a);
