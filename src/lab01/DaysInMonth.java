@@ -1,9 +1,13 @@
+package lab01;
+// Write a program to display the number of days of a month
+// Exercise 6.4: DaysInMonth.java
 import java.util.Scanner;
 
 public class DaysInMonth {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        // Array of month names and abbreviations
         String[] months = {
                 "January", "February", "March", "April", "May", "June",
                 "July", "August", "September", "October", "November", "December",
@@ -13,10 +17,12 @@ public class DaysInMonth {
 
         // Input month
         int monthIndex = -1;
+        // Loop to validate and get a valid month input from the user
         while (monthIndex == -1) {
             System.out.print("Enter a month (full name, abbreviation, or number): ");
             String inputMonth = scanner.nextLine();
 
+            // Parse input as numeric month
             try {
                 int numericInput = Integer.parseInt(inputMonth);
                 if (numericInput >= 1 && numericInput <= 12) {
@@ -37,7 +43,7 @@ public class DaysInMonth {
             }
         }
 
-        // Input year
+        // Input year and validate it
         int inputYear;
         while (true) {
             System.out.print("Enter a year: ");

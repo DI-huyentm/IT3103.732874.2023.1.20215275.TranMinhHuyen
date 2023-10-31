@@ -1,3 +1,6 @@
+package lab01;
+
+// Exercise 6.6: Write a program tho add two matrices of the same size
 import java.util.Scanner;
 
 public class AddMatrices {

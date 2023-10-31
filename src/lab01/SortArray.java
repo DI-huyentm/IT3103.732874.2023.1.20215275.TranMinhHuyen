@@ -1,3 +1,7 @@
+package lab01;
+// Write a program to sort a numeric array, and calculate the sum & avg value of array elements
+// Exercise 6.5: SortArray.java
+
 import java.util.Arrays;
 import java.util.Scanner;
 
