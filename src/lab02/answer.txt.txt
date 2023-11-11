@@ -1,0 +1,1 @@
+Không. Java không cho phép tạo 2 constructor cùng chữ kí (DigitalVideoDisc(String))
