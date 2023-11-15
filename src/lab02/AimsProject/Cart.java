@@ -49,6 +49,14 @@ public class Cart {
         System.out.println("The disc has been added");
     }
 
+    public void addDigitalVideoDisc(DigitalVideoDisc [] dvdList) {
+        // If cart is full
+        if (qtyOrdered + dvdList.length >20) {
+            System.out.println("The cart ");
+        }
+    }
+
+
     // Method to remove a DVD
     public void removeDigitalVideoDisc(DigitalVideoDisc disc) {
         // Search for disc
