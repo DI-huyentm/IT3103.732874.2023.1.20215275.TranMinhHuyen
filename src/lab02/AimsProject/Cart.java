@@ -101,3 +101,5 @@ public class Cart {
         return Math.round(cost * 100.0) / 100.0;
     }
 }
+
+// Branch refactor/apply-release-flow

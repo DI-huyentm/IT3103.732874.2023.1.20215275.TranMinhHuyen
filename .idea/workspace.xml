@@ -56,12 +56,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "refactor/apply-release-flow",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ADMIN/Desktop/AllforOOP/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen",
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen",
     "onboarding.tips.debug.path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen_Copy/src/Main.java",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AddMatrices">
     <configuration name="AddMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddMatrices" />
       <module name="IT3103.732874.2023.1.20215275.Tran_Minh_Huyen" />
