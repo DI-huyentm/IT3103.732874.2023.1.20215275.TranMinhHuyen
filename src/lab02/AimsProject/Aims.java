@@ -20,7 +20,7 @@ public class Aims {
 
         // print number of dvd in cart
         System.out.println("Number of dvd is: ");
-        System.out.println(DigitalVideoDisc.getNbDigitalVideoDisc());
+//        System.out.println(DigitalVideoDisc.getNbDigitalVideoDisc());
         //error, yeu cau khoi phuc lai tu zip02
 
         // Remove the dvd1
