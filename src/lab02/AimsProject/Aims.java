@@ -18,9 +18,9 @@ public class Aims {
                 "Director 3", 87, 18.99f);
         anOrder.addDigitalVideoDisc(dvd3);
 
-        // print total cost of the items in the cart
-        System.out.println(("Total Cost is: "));
-        System.out.println(anOrder.totalCost());
+        // print number of dvd in cart
+        System.out.println("Number of dvd is: ");
+        System.out.println(DigitalVideoDisc.getNbDigitalVideoDisc());
 
         // Remove the dvd1
         anOrder.removeDigitalVideoDisc(dvd1);

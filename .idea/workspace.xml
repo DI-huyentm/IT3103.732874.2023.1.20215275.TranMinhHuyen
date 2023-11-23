@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dcffb43-bf62-43ef-af9f-5c2a17ccf805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab03/TestPassingParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab02/AimsProject/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/AimsProject/DigitalVideoDisc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;topic/passing-parameter&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen_Copy/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "topic/class-members",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen",
+    "onboarding.tips.debug.path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen_Copy/src/Main.java",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.AddMatrices">
     <configuration name="AddMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddMatrices" />
