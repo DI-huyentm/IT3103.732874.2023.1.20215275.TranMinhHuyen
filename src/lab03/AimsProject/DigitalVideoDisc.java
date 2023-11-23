@@ -1,4 +1,4 @@
-package lab02.AimsProject;
+package lab03.AimsProject;
 
 public class DigitalVideoDisc {
     // Attribute
@@ -18,10 +18,15 @@ public class DigitalVideoDisc {
         id = nbDigitalVideoDiscs;
     }
 
-    public DigitalVideoDisc(String title, String category,String director, double cost) {
+    public DigitalVideoDisc(String title, String category, double cost) {
         this(title);
         this.category = category;
         this.cost = cost;
+    }
+
+    public DigitalVideoDisc(String title, String category, String director, double cost) {
+        this(title, category, cost);
+        this.director = director;
     }
 
     public DigitalVideoDisc(String title, String category, String director, int length, double cost) {
@@ -29,7 +34,22 @@ public class DigitalVideoDisc {
         this.length = length;
     }
 
-    // Getter
+    // Method to print a dvd
+    public void printDVD() {
+        System.out.println(id + ". DVD - "
+                + title + " - "
+                + category + " - "
+                + director + " - "
+                + length + ": "
+                + cost + "$");
+    }
+
+    // Method to finds out if the corresponding disk is a match given the title.
+    public boolean isMatch(String title) {
+        return title.equals(this.title);
+    }
+
+    // Getter and Setter
     public String getTitle() {
         return title;
     }

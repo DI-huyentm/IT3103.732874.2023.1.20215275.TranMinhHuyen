@@ -1,4 +1,4 @@
-package lab03;
+package lab03.AimsProject;
 
 import lab02.AimsProject.DigitalVideoDisc;
 

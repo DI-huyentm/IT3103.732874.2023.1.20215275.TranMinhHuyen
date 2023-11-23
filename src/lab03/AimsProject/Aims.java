@@ -1,4 +1,4 @@
-package lab02.AimsProject;
+package lab03.AimsProject;
 
 public class Aims {
     public static void main(String[] args) {
@@ -20,8 +20,7 @@ public class Aims {
 
         // print number of dvd in cart
         System.out.println("Number of dvd is: ");
-        System.out.println(DigitalVideoDisc.getNbDigitalVideoDisc());
-        //error, yeu cau khoi phuc lai tu zip02
+        System.out.println(DigitalVideoDisc.getNbDigitalVideoDiscs());
 
         // Remove the dvd1
         anOrder.removeDigitalVideoDisc(dvd1);

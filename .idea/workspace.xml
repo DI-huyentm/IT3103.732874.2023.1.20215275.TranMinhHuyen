@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dcffb43-bf62-43ef-af9f-5c2a17ccf805" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab03/AimsProject/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab03/AimsProject/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab03/AimsProject/DigitalVideoDisc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab02/AimsProject/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/AimsProject/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab03/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab03/AimsProject/TestPassingParameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +144,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab03/AimsProject/DigitalVideoDisc.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
