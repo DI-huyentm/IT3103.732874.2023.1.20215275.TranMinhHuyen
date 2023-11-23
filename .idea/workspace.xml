@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8dcffb43-bf62-43ef-af9f-5c2a17ccf805" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/AimsProject/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/AimsProject/Aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab02/AimsProject/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/AimsProject/Cart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab02/AimsProject/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/AimsProject/DigitalVideoDisc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "topic/class-members",
+    "git-widget-placeholder": "feature/print-cart",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen",
     "onboarding.tips.debug.path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen_Copy/src/Main.java",
