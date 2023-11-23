@@ -49,43 +49,6 @@ public class Cart {
         System.out.println("The disc has been added");
     }
 
-    // Method to add list new DVDs
-    public void addDigitalVideoDisc(DigitalVideoDisc [] dvdList) {
-        // if cart is full
-        if (qtyOrdered + dvdList.length > 20) {
-            System.out.println("The cart is almost full");
-            return;
-        }
-
-        // Add to cart
-        System.arraycopy(dvdList, 0, itemsOrdered, qtyOrdered, dvdList.length);
-
-        // Increase the qtyOrdered
-        qtyOrdered += dvdList.length;
-
-        // Notify
-        System.out.println("The list has been added");
-    }
-
-    // Method to add two new DVD
-    public void addDigitalVideoDisc(DigitalVideoDisc dvd1, DigitalVideoDisc dvd2) {
-        // if cart is full
-        if (qtyOrdered >= 19) {
-            System.out.println("The cart is almost full");
-            return;
-        }
-
-        // Increase the qtyOrdered
-        qtyOrdered += 2;
-
-        // Add to cart
-        itemsOrdered[qtyOrdered - 2] = dvd1;
-        itemsOrdered[qtyOrdered - 1] = dvd2;
-
-        // Notify
-        System.out.println("Discs have been added");
-    }
-
     // Method to remove a DVD
     public void removeDigitalVideoDisc(DigitalVideoDisc disc) {
         // Search for disc
@@ -130,5 +93,3 @@ public class Cart {
         return Math.round(cost * 100.0) / 100.0;
     }
 }
-
-// Branch refactor/apply-release-flow
