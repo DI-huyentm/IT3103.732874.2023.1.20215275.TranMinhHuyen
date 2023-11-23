@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dcffb43-bf62-43ef-af9f-5c2a17ccf805" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab03/TestPassingParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/AimsProject/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/AimsProject/Cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;topic/method-overloading&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;topic/passing-parameter&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen_Copy/src/Main.java&quot;,
