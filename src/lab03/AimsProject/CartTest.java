@@ -1,4 +1,7 @@
-package lab02.AimsProject;
+package lab03.AimsProject;
+
+import lab02.AimsProject.Cart;
+import lab02.AimsProject.DigitalVideoDisc;
 
 public class CartTest {
     public static void main(String[] args) {

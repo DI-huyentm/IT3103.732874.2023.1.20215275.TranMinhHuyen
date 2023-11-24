@@ -1,4 +1,6 @@
-package lab02.AimsProject;
+package lab03.AimsProject;
+
+import lab02.AimsProject.DigitalVideoDisc;
 
 public class TestPassingParameter {
     static class DVDWrapper {
