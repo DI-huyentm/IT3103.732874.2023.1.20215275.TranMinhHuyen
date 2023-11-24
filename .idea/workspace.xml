@@ -61,7 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AddMatrices">
     <configuration name="AddMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddMatrices" />
       <module name="IT3103.732874.2023.1.20215275.Tran_Minh_Huyen" />
