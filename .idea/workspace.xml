@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dcffb43-bf62-43ef-af9f-5c2a17ccf805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/Garbage/ConcatenationInLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/AddMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/ChoosingOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/DaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/HelloNameDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/InputFromKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/ShowTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/SolveEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab03/OtherProjects/lab01/TriangleStars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8dcffb43-bf62-43ef-af9f-5c2a17ccf805" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "topic/memory-management-string",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen/src/lab03/OtherProjects",
     "onboarding.tips.debug.path": "C:/Users/ADMIN/Desktop/IT3103.732874.2023.1.20215275.Tran_Minh_Huyen_Copy/src/Main.java",
